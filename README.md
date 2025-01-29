@@ -11,4 +11,4 @@ Inside `index.html`:
 
 
 # AboutMeHTML
-HTML assignment for week 2
+HTML assignment for week 3
